@@ -1,0 +1,8 @@
+---
+title: Bash Strings
+subtitle:
+template: two_column_justified
+columns:
+  left:
+    - text: "${SomeVar}"
+      help: "Escaped string"
